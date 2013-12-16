@@ -224,7 +224,7 @@ gnome-session
 gnome-session-fallback
 gnome-shell
 gnome-terminal
-gnome-themes-selected
+#gnome-themes-selected
 gnome-themes-standard
 #gnome-tweak-tool
 gnome-user-guide
