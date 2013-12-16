@@ -1,7 +1,6 @@
 # YAML 1.1
 # Fichero de configuración de paquetes de personalización de GECOS v2
 
-
 # Nombre del paquete (minÃºsculas-separado-con-guiones)
 name: gecosws-meta
 
