@@ -1,28 +1,28 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de Guadalinex v6
+# Fichero de configuración de paquetes de personalización de GECOS v2
 
-# Nombre del paquete (minúsculas-separado-con-guiones)
-name: nombre-del-paquete
+# Nombre del paquete (minÃºsculas-separado-con-guiones)
+name: gecosws-meta
 
 # Autor 
-author: nombre del autor <usuario@dominio.com>
+author: Alexis Martin Castillo <amartin@emergya.com>
 
-# Priority
+#Priority
 priority: optional
 
 # Section
-section: seccion_de_la_aplicacion
+section: metapackages
 
-# Descripción corta
-shortdesc: "descripción corta"
+# DescripciÃ³n corta
+shortdesc: "GECOS v2 meta package with the list of packages for the whole system."
 
-# Descipción larga, las lineas han de estar separadas por "\n "
-longdesc: "descripción larga\n linea1\n linea2"
+# DescipciÃ³n larga, las lineas han de estar separadas por "\n "
+longdesc: "Desktop, system, libraries and the whole distribution depends are in this package."
 
-# Versión del paquete
-version: v6
 
-# Cambios en esta versión
+# VersiÃ³n del paquete
+version: 2.0
+
+# Cambios en esta versiÃ³n
 changes:
-    - cambio1
-    - cambio2
+    - Initial release.
