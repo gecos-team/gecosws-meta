@@ -29,21 +29,20 @@ pdal2
 firefox
 firefox-locale-es
 bookmarks-automount
-gnome-shell-extension-move-clock
-gnome-shell-extension-reflection
-gnome-shell-extension-panel-favorites
-gnome-shell-extension-windowslist
-gnome-shell-extension-applications-menu
-gnome-shell-extension-classic-menus
-gnome-shell-extension-power-alttab
-gnome-shell-classic-systray
+#gnome-shell-extension-move-clock
+#gnome-shell-extension-reflection
+#gnome-shell-extension-panel-favorites
+#gnome-shell-extension-windowslist
+#gnome-shell-extension-applications-menu
+#gnome-shell-extension-classic-menus
+#gnome-shell-extension-power-alttab
+#gnome-shell-classic-systray
 gedit
 chef
 cert-handler
 testdisk
 gnome3-openwith
 gnome3-showdesktop
-
 
 # kitchen recipes needed pkgs:
 xvfb
