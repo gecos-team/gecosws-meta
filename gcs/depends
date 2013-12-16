@@ -24,11 +24,11 @@ gecosws-artwork
 gecosws-mint-artwork-cinnamon-conf
 
 ### gecos desktop packages
-opensc-opendnie
-pdal2
+#opensc-opendnie
+#pdal2
 firefox
 firefox-locale-es
-bookmarks-automount
+#bookmarks-automount
 #gnome-shell-extension-move-clock
 #gnome-shell-extension-reflection
 #gnome-shell-extension-panel-favorites
@@ -37,12 +37,12 @@ bookmarks-automount
 #gnome-shell-extension-classic-menus
 #gnome-shell-extension-power-alttab
 #gnome-shell-classic-systray
-gedit
-chef
-cert-handler
-testdisk
-gnome3-openwith
-gnome3-showdesktop
+#gedit
+#chef
+#cert-handler
+#testdisk
+#gnome3-openwith
+#gnome3-showdesktop
 
 # kitchen recipes needed pkgs:
 xvfb
