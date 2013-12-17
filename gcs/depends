@@ -20,8 +20,8 @@
 ##gecos-firstart
 ##gecos-printer-conf
 ##guadalinex-keyring
-gecosws-artwork
-gecosws-mint-artwork-cinnamon-conf
+#gecosws-artwork
+#gecosws-mint-artwork-cinnamon-conf
 
 ### gecos desktop packages
 ##opensc-opendnie

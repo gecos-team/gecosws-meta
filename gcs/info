@@ -1,5 +1,5 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de GECOS v2
+# Fichero de configuración de paquetes de personalización de Gecos v2
 
 # Nombre del paquete (minÃºsculas-separado-con-guiones)
 name: gecosws-meta
@@ -14,7 +14,7 @@ priority: optional
 section: metapackages
 
 # DescripciÃ³n corta
-shortdesc: "GECOS v2 meta package with the list of packages for the whole system."
+shortdesc: "Gecos v2 meta package with the list of packages for the whole system."
 
 # DescipciÃ³n larga, las lineas han de estar separadas por "\n "
 longdesc: "Desktop, system, libraries and the whole distribution depends are in this package."
