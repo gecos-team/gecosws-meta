@@ -7,7 +7,7 @@
 ## DESKTOP
 
 ### GECOS specific:
-
+gecosws-artwork
 ##gecos-pixmaps
 ##gecos-desktop-conf
 ##gecos-system-conf
@@ -65,18 +65,18 @@
 ##rhythmbox
 ##keepassx
 ##gedit-collaboration
-##libreoffice
-##libreoffice-gnome
-##libreoffice-base
-##libreoffice-calc
-##libreoffice-draw
-##libreoffice-impress
-##libreoffice-math
-##libreoffice-writer
-##libreoffice-pdfimport
-##libreoffice-emailmerge
-##libreoffice-gtk
-##libreoffice-style-tango
+libreoffice
+libreoffice-gnome
+libreoffice-base
+libreoffice-calc
+libreoffice-draw
+libreoffice-impress
+libreoffice-math
+libreoffice-writer
+libreoffice-pdfimport
+libreoffice-emailmerge
+libreoffice-gtk
+libreoffice-style-tango
 ##brasero
 ##vlc
 ##empathy
