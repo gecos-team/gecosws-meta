@@ -21,10 +21,6 @@
 ##gecos-printer-conf
 ##guadalinex-keyring
 gecosws-artwork
-gecosws-cinnamon-conf
-gecosws-mint-artwork-cinnamon-conf
-gecosws-mint-artwork-common-conf
-gecosws-mint-x-icons-conf
 
 ### gecos desktop packages
 ##opensc-opendnie
