@@ -21,12 +21,12 @@ gecosws-skel-conf
 ##gecos-firstart
 ##gecos-printer-conf
 ##guadalinex-keyring
-#cinnamon
-#cinnamon-screensaver
-#nemo
+cinnamon
+cinnamon-screensaver
+nemo
 
 #g
-guadalinexv9-firefox-24.2.0
+guadalinexv9-firefox-24.2.0-32
 #l
 #libreoffice4.1
 #libreoffice4.1-base
