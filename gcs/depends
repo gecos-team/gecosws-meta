@@ -51,6 +51,7 @@ ttf-ubuntu-font-family
 xdg-user-dirs
 xdg-user-dirs-gtk
 gnome-terminal
+zenity
 
 usb-modeswitch
 usb-modeswitch-data
