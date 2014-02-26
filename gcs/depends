@@ -103,6 +103,8 @@ gedit
 python-pexpect
 cinnamon-control-center
 cinnamon-settings-daemon
+cinnamon-screensaver
+nemo
 
 gstreamer0.10-alsa
 gstreamer0.10-gconf
