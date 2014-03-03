@@ -118,3 +118,11 @@ alsa-utils
 alsa-base
 
 policykit-desktop-privileges
+
+sssd
+sssd-tools
+libnss-sss
+libpam-sss
+libsasl2-modules-gssapi-mit
+libsasl2-modules-ldap
+ldap-utils
