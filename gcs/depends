@@ -10,6 +10,7 @@
 gecosws-artwork
 gecosws-skel-conf
 gecosws-system-conf
+gecosws-config-assistant
 ##gecos-pixmaps
 ##gecos-desktop-conf
 ##gecos-system-conf
@@ -25,6 +26,7 @@ gecosws-system-conf
 cinnamon
 cinnamon-screensaver
 nemo
+ruby1.9.1
 
 #g
 guadalinexv9-firefox-24.2.0-32
