@@ -1,6 +1,8 @@
 gecosws-artwork
 gecosws-skel-conf
 gecosws-icon-theme
+gecosws-system-conf
+gecosws-config-assistant
 
 acpi-support
 usbutils
@@ -9,6 +11,8 @@ acl
 vim
 joe
 nano
+ruby1.9.1
+
 
 #required by artwork
 mint-artwork-gnome
