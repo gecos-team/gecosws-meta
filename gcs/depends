@@ -99,6 +99,8 @@ hdparm
 man-db
 rfkill
 zip
+unzip
+bash-completion
 
 mdm
 
@@ -108,6 +110,10 @@ aspell-es
 libglib2.0-bin
 
 gedit
+gdebi-core
+gnome-screenshot
+openssh-client
+evince-gtk
 
 python-pexpect
 cinnamon-control-center
