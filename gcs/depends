@@ -2,7 +2,7 @@ gecosws-artwork
 gecosws-skel-conf
 gecosws-icon-theme
 #gecosws-system-conf
-#gecosws-xdg-ruby
+gecosws-xdg-ruby
 gecosws-config-assistant
 
 acpi-support
