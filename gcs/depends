@@ -4,6 +4,7 @@ gecosws-icon-theme
 #gecosws-system-conf
 gecosws-xdg-ruby
 gecosws-config-assistant
+gecosws-firefox-wrapper
 
 acpi-support
 usbutils
@@ -105,7 +106,7 @@ bash-completion
 
 mdm
 
-firefox-esr-guadaext
+#firefox-esr-guadaext
 language-pack-gnome-es
 aspell-es
 libglib2.0-bin
