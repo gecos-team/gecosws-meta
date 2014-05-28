@@ -6,6 +6,8 @@ gecosws-mdm-theme
 gecosws-xdg-ruby
 gecosws-config-assistant
 gecosws-firefox-wrapper
+gecosws-chef-notifier-cinnamon
+gecosws-chef-snitch
 
 acpi-support
 usbutils
