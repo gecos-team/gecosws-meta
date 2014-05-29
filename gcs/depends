@@ -5,7 +5,8 @@ gecosws-icon-theme
 gecosws-mdm-theme
 gecosws-xdg-ruby
 gecosws-config-assistant
-gecosws-firefox-wrapper
+firefox-esr
+#gecosws-firefox-wrapper
 gecosws-chef-notifier-cinnamon
 gecosws-chef-snitch
 
