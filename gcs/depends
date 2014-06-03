@@ -9,6 +9,7 @@ firefox-esr
 #gecosws-firefox-wrapper
 gecosws-chef-notifier-cinnamon
 gecosws-chef-snitch
+gecosws-firstart
 
 synaptic
 apturl
