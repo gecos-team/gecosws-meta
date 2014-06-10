@@ -120,7 +120,7 @@ language-pack-gnome-es
 aspell-es
 libglib2.0-bin
 
-libshadow-ruby1.8
+#libshadow-ruby1.8
 
 gedit
 gdebi-core
