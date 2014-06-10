@@ -132,8 +132,10 @@ evince-gtk
 python-pexpect
 cinnamon-control-center
 cinnamon-settings-daemon
+cinnamon
 cinnamon-screensaver
 nemo
+ruby1.9.1
 
 gstreamer0.10-alsa
 gstreamer0.10-gconf
