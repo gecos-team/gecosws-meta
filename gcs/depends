@@ -150,6 +150,7 @@ alsa-base
 
 policykit-desktop-privileges
 
+lvm2
 sssd
 sssd-tools
 cracklib-runtime
