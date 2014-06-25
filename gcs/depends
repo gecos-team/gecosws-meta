@@ -73,6 +73,7 @@ gnome-terminal
 gnome-system-monitor
 zenity
 
+modemmanager
 usb-modeswitch
 usb-modeswitch-data
 usb-creator-gtk
