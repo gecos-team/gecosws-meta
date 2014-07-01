@@ -137,6 +137,7 @@ cinnamon-control-center
 cinnamon-settings-daemon
 cinnamon
 cinnamon-screensaver
+cinnamon-bluetooth
 nemo
 ruby1.9.1
 
