@@ -110,6 +110,8 @@ system-config-printer-udev
 gvfs-backends
 gvfs-bin
 gvfs-fuse
+mtp-tools
+mtpfs
 
 hddtemp
 hdparm
