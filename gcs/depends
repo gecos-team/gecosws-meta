@@ -160,6 +160,8 @@ alsa-base
 policykit-desktop-privileges
 
 lvm2
+ntfs-3g
+dosfstools
 sssd
 sssd-tools
 cracklib-runtime
