@@ -11,7 +11,7 @@ gecosws-chef-notifier-cinnamon
 gecosws-chef-snitch
 gecosws-firstart
 java-nss-fix
-mintstick
+
 
 synaptic
 apturl
@@ -162,6 +162,7 @@ alsa-base
 policykit-desktop-privileges
 
 lvm2
+mintstick
 ntfs-3g
 dosfstools
 sssd
