@@ -10,6 +10,8 @@ firefox-esr
 #gecosws-chef-notifier-cinnamon
 gecosws-chef-snitch
 gecosws-firstart
+java-nss-fix
+
 
 synaptic
 apturl
@@ -73,6 +75,9 @@ gnome-terminal
 gnome-system-monitor
 zenity
 
+ppp
+mobile-broadband-provider-info
+modemmanager
 usb-modeswitch
 usb-modeswitch-data
 usb-creator-gtk
@@ -84,6 +89,9 @@ mtools
 anacron
 whois
 dnsutils
+
+yelp
+gnome-user-guide
 
 cups
 cups-client
@@ -104,6 +112,8 @@ system-config-printer-udev
 gvfs-backends
 gvfs-bin
 gvfs-fuse
+mtp-tools
+mtpfs
 
 hddtemp
 hdparm
@@ -134,6 +144,7 @@ cinnamon-control-center
 cinnamon-settings-daemon
 cinnamon
 cinnamon-screensaver
+cinnamon-bluetooth
 nemo
 ruby1.9.1
 
@@ -150,6 +161,10 @@ alsa-base
 
 policykit-desktop-privileges
 
+lvm2
+mintstick
+ntfs-3g
+dosfstools
 sssd
 sssd-tools
 cracklib-runtime
