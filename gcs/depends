@@ -7,7 +7,7 @@ gecosws-xdg-ruby
 gecosws-config-assistant
 firefox-esr
 #gecosws-firefox-wrapper
-gecosws-chef-notifier-cinnamon
+#gecosws-chef-notifier-cinnamon
 gecosws-chef-snitch
 gecosws-firstart
 
