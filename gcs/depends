@@ -16,9 +16,11 @@ java-nss-fix
 synaptic
 apturl
 update-manager
+rsync
 
 acpi-support
 usbutils
+pciutils
 command-not-found
 acl
 vim
