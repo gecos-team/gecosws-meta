@@ -5,13 +5,13 @@ gecosws-system-conf
 gecosws-mdm-theme
 gecosws-xdg-ruby
 gecosws-config-assistant
-firefox-esr
+firefox=38.0.1esr-gecos1
+#firefox-esr
 #gecosws-firefox-wrapper
 #gecosws-chef-notifier-cinnamon
 gecosws-chef-snitch
 gecosws-firstart
 java-nss-fix
-
 
 synaptic
 apturl
@@ -148,7 +148,6 @@ cinnamon
 cinnamon-screensaver
 cinnamon-bluetooth
 nemo
-ruby1.9.1
 
 gstreamer0.10-alsa
 gstreamer0.10-gconf
