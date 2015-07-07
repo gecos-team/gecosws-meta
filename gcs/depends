@@ -178,3 +178,8 @@ libsasl2-modules-gssapi-mit
 libsasl2-modules-ldap
 ldap-utils
 python-software-properties
+
+gnome-disk-utility
+gnome-font-viewer
+gdebi
+eog
