@@ -183,3 +183,5 @@ gnome-disk-utility
 gnome-font-viewer
 gdebi
 eog
+# Needed for debconf gui interface
+libgtk2-perl
