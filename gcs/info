@@ -18,12 +18,12 @@ section: metapackages
 shortdesc: "Gecos v2 meta package with the list of packages for the whole system."
 
 # DescipciÃ³n larga, las lineas han de estar separadas por "\n "
-longdesc: "Desktop, system, libraries and the whole distribution depends are in this package."
+longdesc: "Desktop and system distribution dependencies are in this package."
 
 
 # VersiÃ³n del paquete
-version: 2.0
+version: 2.1
 
 # Cambios en esta versiÃ³n
 changes:
-    - Initial release.
+    - Updated for GECOS 2.3.
