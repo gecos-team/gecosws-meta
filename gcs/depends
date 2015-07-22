@@ -5,7 +5,7 @@ gecosws-system-conf
 gecosws-mdm-theme
 gecosws-xdg-ruby
 gecosws-config-assistant
-firefox=38.0.1esr-gecos1
+firefox
 #firefox-esr
 #gecosws-firefox-wrapper
 #gecosws-chef-notifier-cinnamon
