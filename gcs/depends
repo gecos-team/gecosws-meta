@@ -185,3 +185,7 @@ gdebi
 eog
 # Needed for debconf gui interface
 libgtk2-perl
+# Pulse Audio tools
+pulseaudio-utils
+# Needed by cinnamon
+colord
