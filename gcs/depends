@@ -5,17 +5,16 @@ gecosws-system-conf
 gecosws-mdm-theme
 gecosws-xdg-ruby
 gecosws-config-assistant
+gecosws-chef-snitch
+gecosws-firstart
 firefox
 #firefox-esr
 #gecosws-firefox-wrapper
 #gecosws-chef-notifier-cinnamon
-gecosws-chef-snitch
-gecosws-firstart
 java-nss-fix
 
 synaptic
 apturl
-update-manager
 rsync
 
 acpi-support
@@ -26,9 +25,9 @@ acl
 vim
 joe
 nano
+
 ruby1.9.1
 chef
-
 
 #required by artwork
 mint-artwork-gnome
@@ -44,7 +43,6 @@ gnome-icon-theme-full
 
 gnome-keyring
 libpam-gnome-keyring
-
 ubuntu-keyring
 linuxmint-keyring
 
@@ -58,7 +56,10 @@ network-manager-gnome
 wireless-tools
 
 xdg-utils
-xfonts-base
+# Lintian complains about x-font-package depends
+#xfonts-base
+#xfonts-100dpi
+#xfonts-75dpi
 xfonts-encodings
 xfonts-mathml
 xfonts-utils
@@ -66,13 +67,12 @@ xserver-xorg
 xserver-xorg-input-all
 xserver-xorg-video-all
 xorg
-xfonts-100dpi
-xfonts-75dpi
 xcursor-themes
 dmz-cursor-theme
 ttf-ubuntu-font-family
 xdg-user-dirs
 xdg-user-dirs-gtk
+
 gnome-terminal
 gnome-system-monitor
 zenity
@@ -84,7 +84,6 @@ usb-modeswitch
 usb-modeswitch-data
 usb-creator-gtk
 
-wspanish
 traceroute
 grub-pc
 mtools
@@ -92,9 +91,11 @@ anacron
 whois
 dnsutils
 
+man-db
 yelp
 gnome-user-guide
 
+#Printing
 cups
 cups-client
 cups-common
@@ -119,7 +120,6 @@ mtpfs
 
 hddtemp
 hdparm
-man-db
 rfkill
 zip
 unzip
@@ -129,7 +129,6 @@ mdm
 
 #firefox-esr-guadaext
 language-pack-gnome-es
-aspell-es
 libglib2.0-bin
 
 libshadow-ruby1.8
@@ -189,3 +188,5 @@ libgtk2-perl
 pulseaudio-utils
 # Needed by cinnamon
 colord
+# deleted 
+#update-manager
