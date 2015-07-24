@@ -60,8 +60,8 @@ xdg-utils
 #xfonts-base
 #xfonts-100dpi
 #xfonts-75dpi
+#xfonts-mathml
 xfonts-encodings
-xfonts-mathml
 xfonts-utils
 xserver-xorg
 xserver-xorg-input-all
