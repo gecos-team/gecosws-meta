@@ -1,15 +1,16 @@
 gecosws-artwork
 gecosws-skel-conf
 gecosws-icon-theme
-gecosws-system-conf
+#gecosws-system-conf (files now included in gecos-agent)
 gecosws-mdm-theme
 gecosws-xdg-ruby
 gecosws-config-assistant
-gecosws-chef-snitch
-gecosws-firstart
+#gecosws-chef-snitch (files now included in gecos-agent)
+#gecosws-firstart (files now included in gecos-agent)
 firefox
 firefox-locale-es
-#firefox-esr
+#firefox-esr (-esr is a package version, not an independent package)
+#firefox-esr-guadaext
 #gecosws-firefox-wrapper
 #gecosws-chef-notifier-cinnamon
 java-nss-fix
@@ -105,10 +106,8 @@ cups-ppdc
 foomatic-db-compressed-ppds
 foomatic-db-engine
 foomatic-filters
-printer-driver-gutenprint
-printer-driver-hpijs
-printer-driver-min12xxw
-printer-driver-pnm2ppa
+printer-driver-all
+
 system-config-printer-common
 system-config-printer-gnome
 system-config-printer-udev
@@ -128,7 +127,6 @@ bash-completion
 
 mdm
 
-#firefox-esr-guadaext
 language-pack-gnome-es
 libglib2.0-bin
 
