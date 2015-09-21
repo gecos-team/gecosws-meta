@@ -7,6 +7,8 @@ gecosws-xdg-ruby
 gecosws-config-assistant
 #gecosws-chef-snitch (files now included in gecos-agent)
 #gecosws-firstart (files now included in gecos-agent)
+# GECOS Agent will be installed by GECOS Config Assistant in a future version
+gecos-agent
 firefox
 firefox-locale-es
 #firefox-esr (-esr is a package version, not an independent package)
