@@ -191,3 +191,5 @@ pulseaudio-utils
 colord
 # deleted 
 #update-manager
+dconf-tools
+powernap
