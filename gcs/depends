@@ -31,7 +31,8 @@ joe
 nano
 
 ruby
-chef
+# The gecos config assistant may install de chef client on demand.
+#chef
 
 #required by artwork
 mint-artwork-gnome
