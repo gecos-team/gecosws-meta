@@ -30,7 +30,7 @@ vim
 joe
 nano
 
-ruby1.9.1
+ruby
 chef
 
 #required by artwork
@@ -39,10 +39,12 @@ mint-artwork-gnome
 jockey-gtk
 dkms
 bcmwl-kernel-source
-linux-firmware-nonfree
+# At this moment there is no linux-firmware-nonfree in Xenial
+#linux-firmware-nonfree
 
 gnome-themes-standard
-gnome-themes-extras
+# At this moment there is no gnome-themes-extras in Xenial
+#gnome-themes-extras
 gnome-icon-theme-full
 
 gnome-keyring
@@ -52,7 +54,7 @@ linuxmint-keyring
 
 plymouth-theme-ubuntu-logo
 plymouth-theme-ubuntu-text
-plymouth-theme-text
+#plymouth-theme-text
 plymouth-x11
 
 network-manager
@@ -146,7 +148,8 @@ cinnamon-control-center
 cinnamon-settings-daemon
 cinnamon
 cinnamon-screensaver
-cinnamon-bluetooth
+# ?????
+#cinnamon-bluetooth
 nemo
 
 gstreamer0.10-alsa
