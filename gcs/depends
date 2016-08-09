@@ -3,7 +3,12 @@ gecosws-skel-conf
 gecosws-icon-theme
 #gecosws-system-conf (files now included in gecos-agent)
 gecosws-mdm-theme
+
 gecosws-xdg-ruby
+ruby-tzinfo
+ruby-libxml
+ruby-dev
+
 gecosws-config-assistant
 #gecosws-chef-snitch (files now included in gecos-agent)
 #gecosws-firstart (files now included in gecos-agent)
