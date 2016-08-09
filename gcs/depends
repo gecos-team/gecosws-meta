@@ -8,6 +8,7 @@ gecosws-xdg-ruby
 ruby-tzinfo
 ruby-libxml
 ruby-dev
+ruby-activesupport
 
 gecosws-config-assistant
 #gecosws-chef-snitch (files now included in gecos-agent)
