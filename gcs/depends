@@ -99,7 +99,7 @@ usb-modeswitch-data
 usb-creator-gtk
 
 traceroute
-grub-pc
+# grub-pc
 mtools
 anacron
 whois
