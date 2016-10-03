@@ -205,3 +205,7 @@ colord
 #update-manager
 dconf-tools
 powernap
+
+# Add apport to be able to report bugs (ubiquity needs this)
+apport
+python3-apport
