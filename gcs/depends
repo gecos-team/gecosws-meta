@@ -210,3 +210,7 @@ powernap
 apport
 apport-gtk
 python3-apport
+
+# Tools required by "ohai-certs.rb" GECOS Ohai plugin 
+# to inspect Firefox certificates
+libnss3-tools
