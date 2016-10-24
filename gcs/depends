@@ -181,6 +181,8 @@ dosfstools
 sssd
 sssd-tools
 cracklib-runtime
+samba
+samba-common
 samba-common-bin 
 autofs 
 krb5-user
