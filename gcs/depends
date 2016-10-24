@@ -216,3 +216,7 @@ python3-apport
 # Tools required by "ohai-certs.rb" GECOS Ohai plugin 
 # to inspect Firefox certificates
 libnss3-tools
+
+# Build essentials package is necessary to build the GEMs when
+# the user runs the "gem install" command
+build-essential
