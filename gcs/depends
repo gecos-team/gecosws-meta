@@ -15,10 +15,12 @@ gecosws-config-assistant
 #gecosws-firstart (files now included in gecos-agent)
 # GECOS Agent will be installed by GECOS Config Assistant in a future version
 gecos-agent
+
+# Firefox ESR version will be pinned in /etc/apt/preferences
 firefox
-firefox-locale-es
-#firefox-esr (-esr is a package version, not an independent package)
-#firefox-esr-guadaext
+# ESR version does not use firefox-locale-es package
+#firefox-locale-es
+
 #gecosws-firefox-wrapper
 #gecosws-chef-notifier-cinnamon
 java-nss-fix
