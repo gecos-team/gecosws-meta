@@ -159,8 +159,8 @@ cinnamon-control-center
 cinnamon-settings-daemon
 cinnamon
 cinnamon-screensaver
-# ?????
-#cinnamon-bluetooth
+bluetooth
+gnome-bluetooth
 nemo
 
 gstreamer0.10-alsa
