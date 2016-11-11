@@ -26,7 +26,8 @@ firefox
 java-nss-fix
 
 synaptic
-apturl
+# apturl not needed in Guadalinex GECOS distribution
+#apturl
 rsync
 
 acpi-support
