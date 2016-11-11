@@ -83,6 +83,9 @@ xfonts-utils
 xserver-xorg
 xserver-xorg-input-all
 xserver-xorg-video-all
+# In Ubuntu Xenial distribution xserver-xorg-video-intel package is only 
+# a recommended dependency of xserver-xorg-video-all
+xserver-xorg-video-intel
 xorg
 xcursor-themes
 dmz-cursor-theme
