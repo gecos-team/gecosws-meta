@@ -25,6 +25,10 @@ firefox
 #gecosws-chef-notifier-cinnamon
 java-nss-fix
 
+# java-nss-fix package requires java-runtime package and that installs by default 
+# openjdk-9-jre that is not stable and is very big, so we need to install gcj-4.8-jre to avoid this
+gcj-4.8-jre
+
 synaptic
 # apturl not needed in Guadalinex GECOS distribution
 #apturl
