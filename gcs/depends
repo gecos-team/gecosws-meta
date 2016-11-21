@@ -187,6 +187,7 @@ lvm2
 mintstick
 ntfs-3g
 dosfstools
+ntpdate
 sssd
 sssd-tools
 cracklib-runtime
