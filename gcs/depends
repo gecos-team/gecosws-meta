@@ -124,7 +124,7 @@ cups-client
 cups-common
 cups-filters
 cups-ppdc
-foomatic-db-compressed-ppds
+foomatic-db
 foomatic-db-engine
 foomatic-filters
 printer-driver-all
