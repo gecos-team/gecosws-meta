@@ -15,6 +15,7 @@ firefox-locale-es
 #firefox-esr-guadaext
 #gecosws-firefox-wrapper
 #gecosws-chef-notifier-cinnamon
+gecosws-repository-compatibility
 java-nss-fix
 
 synaptic
