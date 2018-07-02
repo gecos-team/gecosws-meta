@@ -58,7 +58,8 @@ bcmwl-kernel-source
 gnome-themes-standard
 # At this moment there is no gnome-themes-extras in Xenial
 #gnome-themes-extras
-gnome-icon-theme-full
+# Package deprecated in Bionic
+#gnome-icon-theme-full
 
 gnome-keyring
 libpam-gnome-keyring
@@ -158,7 +159,8 @@ gdebi-core
 gnome-screenshot
 openssl
 openssh-client
-evince-gtk
+# Changed evince-gtk to evince in Bionic
+evince
 
 python-pexpect
 cinnamon-control-center
@@ -171,7 +173,8 @@ blueberry
 nemo
 
 gstreamer1.0-alsa
-gstreamer1.0-gconf
+# Deprecated in bionic
+#gstreamer1.0-gconf
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-plugins-good
 gstreamer1.0-plugins-ugly
