@@ -46,10 +46,8 @@ ruby
 # The gecos config assistant may install de chef client on demand.
 #chef
 
-#required by artwork
-mint-artwork-cinnamon
-mint-info-cinnamon
-mint-artwork-gnome
+#required by artwork (changed in Mint tara)
+mint-artwork
 
 jockey-gtk
 dkms
