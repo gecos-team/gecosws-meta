@@ -169,13 +169,15 @@ gnome-bluetooth
 blueberry
 nemo
 
-gstreamer0.10-alsa
-gstreamer0.10-gconf
-gstreamer0.10-plugins-base-apps
-gstreamer0.10-plugins-good
-gstreamer0.10-pulseaudio
-gstreamer0.10-tools
+gstreamer1.0-alsa
+gstreamer1.0-gconf
+gstreamer1.0-plugins-base-apps
+gstreamer1.0-plugins-good
+gstreamer1.0-plugins-ugly
+gstreamer1.0-pulseaudio
+gstreamer1.0-tools
 pulseaudio-module-bluetooth
+libcanberra-pulse
 
 alsa-utils
 alsa-base
