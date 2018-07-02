@@ -136,7 +136,8 @@ gvfs-backends
 gvfs-bin
 gvfs-fuse
 mtp-tools
-mtpfs
+# deprecated in ubuntu 18.04
+#mtpfs
 
 hddtemp
 hdparm
