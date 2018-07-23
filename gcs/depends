@@ -152,7 +152,7 @@ mdm
 language-pack-gnome-es
 libglib2.0-bin
 
-libshadow-ruby1.8
+ruby-shadow
 
 gedit
 gdebi-core
