@@ -147,7 +147,9 @@ zip
 unzip
 bash-completion
 
-mdm
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 
 language-pack-gnome-es
 libglib2.0-bin
