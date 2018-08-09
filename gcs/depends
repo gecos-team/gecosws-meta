@@ -48,6 +48,7 @@ ruby
 
 #required by artwork (changed in Mint tara)
 mint-artwork
+mintmenu
 
 jockey-gtk
 dkms
