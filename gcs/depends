@@ -74,6 +74,8 @@ plymouth-x11
 network-manager
 network-manager-gnome
 wireless-tools
+net-tools
+ifupdown
 
 xdg-utils
 # Lintian complains about x-font-package depends
