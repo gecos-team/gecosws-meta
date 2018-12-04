@@ -3,7 +3,6 @@ gecosws-skel-conf
 gecosws-icon-theme
 gecosws-certificates-locale
 #gecosws-system-conf (files now included in gecos-agent)
-gecosws-mdm-theme
 gecosws-repository-compatibility
 
 gecosws-xdg-ruby
