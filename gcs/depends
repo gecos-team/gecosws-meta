@@ -2,74 +2,49 @@ gecosws-artwork
 gecosws-skel-conf
 gecosws-icon-theme
 gecosws-certificates-locale
-#gecosws-system-conf (files now included in gecos-agent)
 gecosws-repository-compatibility
 
 gecosws-xdg-ruby
-ruby-tzinfo
 ruby-libxml
 ruby-dev
 ruby-activesupport
 
 gecosws-config-assistant
-#gecosws-chef-snitch (files now included in gecos-agent)
-#gecosws-firstart (files now included in gecos-agent)
-# GECOS Agent will be installed by GECOS Config Assistant in a future version
-gecos-agent
+gecosws-agent
 
 # Firefox ESR version will be pinned in /etc/apt/preferences
 firefox
 # ESR version does not use firefox-locale-es package
 #firefox-locale-es
 
-#gecosws-firefox-wrapper
-#gecosws-chef-notifier-cinnamon
-
-# java-nss-fix not needed in Guadalinex GECOS distribution
-#java-nss-fix
-
 synaptic
-# apturl not needed in Guadalinex GECOS distribution
-#apturl
-rsync
 
 acpi-support
 usbutils
 pciutils
 command-not-found
-acl
+
 vim
 joe
 nano
 
 ruby
-# The gecos config assistant may install de chef client on demand.
-#chef
 
 #required by artwork (changed in Mint tara)
 mint-artwork
 mintmenu
 
-jockey-gtk
 dkms
 bcmwl-kernel-source
-# At this moment there is no linux-firmware-nonfree in Xenial
-#linux-firmware-nonfree
 
-gnome-themes-standard
-# At this moment there is no gnome-themes-extras in Xenial
-#gnome-themes-extras
-# Package deprecated in Bionic
-#gnome-icon-theme-full
+gnome-themes-extra
 
 gnome-keyring
 libpam-gnome-keyring
 ubuntu-keyring
 linuxmint-keyring
 
-plymouth-theme-ubuntu-logo
 plymouth-theme-ubuntu-text
-#plymouth-theme-text
 plymouth-x11
 
 network-manager
@@ -79,23 +54,15 @@ net-tools
 ifupdown
 
 xdg-utils
-# Lintian complains about x-font-package depends
-#xfonts-base
-#xfonts-100dpi
-#xfonts-75dpi
-#xfonts-mathml
 xfonts-encodings
 xfonts-utils
-xserver-xorg
 xserver-xorg-input-all
 xserver-xorg-video-all
-# In Ubuntu Xenial distribution xserver-xorg-video-intel package is only 
-# a recommended dependency of xserver-xorg-video-all
 xserver-xorg-video-intel
 xorg
 xcursor-themes
 dmz-cursor-theme
-ttf-ubuntu-font-family
+fonts-ubuntu
 xdg-user-dirs
 xdg-user-dirs-gtk
 
@@ -104,33 +71,24 @@ gnome-system-monitor
 zenity
 
 ppp
-mobile-broadband-provider-info
 modemmanager
 usb-modeswitch
-usb-modeswitch-data
 usb-creator-gtk
 
 traceroute
-# grub-pc
-mtools
-anacron
 whois
 dnsutils
 
 man-db
 yelp
-gnome-user-guide
+gnome-user-docs
 
-#Printing
+# Printing
 cups
-cups-client
-cups-common
-cups-filters
-cups-ppdc
 foomatic-db
 foomatic-db-engine
 foomatic-filters
-printer-driver-all
+printer-driver-all-enforce
 
 system-config-printer-common
 system-config-printer-gnome
@@ -140,8 +98,6 @@ gvfs-backends
 gvfs-bin
 gvfs-fuse
 mtp-tools
-# deprecated in ubuntu 18.04
-#mtpfs
 
 hddtemp
 hdparm
@@ -160,26 +116,18 @@ libglib2.0-bin
 ruby-shadow
 
 gedit
-gdebi-core
 gnome-screenshot
 openssl
 openssh-client
-# Changed evince-gtk to evince in Bionic
 evince
 
 python-pexpect
-cinnamon-control-center
-cinnamon-settings-daemon
 cinnamon
-cinnamon-screensaver
-bluetooth
 gnome-bluetooth
 blueberry
 nemo
 
 gstreamer1.0-alsa
-# Deprecated in bionic
-#gstreamer1.0-gconf
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-plugins-good
 gstreamer1.0-plugins-ugly
@@ -202,8 +150,6 @@ sssd
 sssd-tools
 cracklib-runtime
 samba
-samba-common
-samba-common-bin 
 autofs 
 krb5-user
 libnss-sss
@@ -222,8 +168,6 @@ libgtk2-perl
 pulseaudio-utils
 # Needed by cinnamon
 colord
-# deleted 
-#update-manager
 dconf-tools
 powernap
 
