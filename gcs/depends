@@ -2,6 +2,7 @@ gecosws-artwork
 gecosws-skel-conf
 gecosws-icon-theme
 gecosws-repository-compatibility
+gecosws-conf-lightdm
 
 gecosws-xdg-ruby
 ruby-libxml
