@@ -167,7 +167,8 @@ libgtk2-perl
 pulseaudio-utils
 # Needed by cinnamon
 colord
-dconf-tools
+dconf-cli
+dconf-editor
 powernap
 
 # Add apport to be able to report bugs (ubiquity needs this)
