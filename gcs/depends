@@ -169,7 +169,6 @@ pulseaudio-utils
 colord
 dconf-cli
 dconf-editor
-powernap
 
 # Add apport to be able to report bugs (ubiquity needs this)
 apport
