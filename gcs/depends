@@ -120,7 +120,6 @@ openssl
 openssh-client
 evince
 
-python-pexpect
 cinnamon
 gnome-bluetooth
 blueberry
