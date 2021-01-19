@@ -136,6 +136,7 @@ libcanberra-pulse
 
 alsa-utils
 alsa-base
+alsa-ucm-conf
 
 policykit-desktop-privileges
 
